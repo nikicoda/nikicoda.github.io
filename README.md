@@ -1,2 +1,1 @@
-# nikicoda.github.io
-Hello world!
+# Niki Coda
