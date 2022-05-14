@@ -9,6 +9,7 @@
 - Parcel lockers
 - Old cars with no GPS or things that beep at you
 - Physical maps
+- Avoid large mainstream stores that have face detection and other surveillance methods in operation. 
 
 ### Notes, record keeping
 - Standard Notes
@@ -18,9 +19,10 @@
 
 ### Telecommunications
 - [silent.link](silent.link) - A provider of fully anonymous eSim mobile phone plans. Payable in Bitcoin and no identifying information required whatsoever. 
+- [MySudo](https://mysudo.com/) - Anonymous alias service. Can provie mobile phone numbers, text and email for multiple profiles in your account.
 
 ### Email
-- [Proton Mail](
+- [Proton Mail]()
 - [SimpleLogin]() Provider of email alias accounts. 
 
 ### Messaging
@@ -36,6 +38,7 @@
 ## Computer
 
 ### Operating system
+- Ubuntu
 - Linux Mint 
 - Tails
 
